@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
 </div>
 
-Data Science learning path involves mastering core technologies such as Python programming, statistics, and foundational machine learning concepts. Then, you progress to exploring data processing and visualization tools like Pandas, NumPy, and Matplotlib. Next, you can delve into machine learning frameworks and libraries like Scikit-learn and TensorFlow, as well as knowledge in deep learning. Understanding data engineering aspects is also crucial, including skills in data cleaning, transformation, and storage technologies such as SQL and NoSQL databases. Continuous learning and hands-on practice through solving real-world problems and engaging in projects are essential for skill advancement.
+Data Science is at the forefront of technological innovation. This Skill Tree provides a comprehensive, beginner-friendly journey into the world of data analysis and interpretation. Following a well-structured roadmap, you'll learn essential concepts and tools through hands-on, non-video courses. Practical exercises in the interactive playground will solidify your skills in statistical analysis, machine learning, and data visualization.
 
 |   Index | Name                                                                                    | Level   | Repo                                                                  | Course Link                                                       |
 |---------|-----------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------|-------------------------------------------------------------------|
@@ -18,15 +18,15 @@ Data Science learning path involves mastering core technologies such as Python p
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
