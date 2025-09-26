@@ -8,17 +8,17 @@
 <img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
 </div>
 
-数据科学处于技术创新的前沿。这个技能树为初学者提供了一个友好且全面的数据分析与解读世界探索之旅。通过遵循精心设计的学习路径，你将通过实践型非视频课程学习到关键概念和工具。交互式练习场中的实践练习将强化你在统计分析、机器学习和数据可视化方面的技能。
+通过这个为初学者设计的综合学习路径，学习数据科学。这些数据科学课程为探索数据分析和解释提供了一个结构化的路线图。通过动手实践、非视频课程和交互式练习场中的实际操作，掌握基本概念和工具，从而加强统计分析、机器学习和数据可视化方面的技能。
 
-|   序号 | 名称                                                                               | 难度   | Repo                                                                   | 练习                                                                     |
-|--------|------------------------------------------------------------------------------------|--------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
-|      1 | [Python 快速入门](https://labex.io/zh/courses/quick-start-with-python)             | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)       | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-python)       |
-|      2 | [MySQL 快速入门](https://labex.io/zh/courses/quick-start-with-mysql)               | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)        | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-mysql)        |
-|      3 | [PostgreSQL 初学者教程](https://labex.io/zh/courses/postgresql-for-beginners)      | 初级   | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)      | [🚀 开始实验](https://labex.io/zh/courses/postgresql-for-beginners)      |
-|      4 | [NumPy 快速入门](https://labex.io/zh/courses/quick-start-with-numpy)               | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)        | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-numpy)        |
-|      5 | [Pandas 快速入门](https://labex.io/zh/courses/quick-start-with-pandas)             | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-pandas)       | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-pandas)       |
-|      6 | [Matplotlib 快速入门](https://labex.io/zh/courses/quick-start-with-matplotlib)     | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-matplotlib)   | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-matplotlib)   |
-|      7 | [scikit-learn 快速入门](https://labex.io/zh/courses/quick-start-with-scikit-learn) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-scikit-learn) |
+|   序号 | 名称                                                                            | 难度   | Repo                                                                | 练习                                                                  |
+|--------|---------------------------------------------------------------------------------|--------|---------------------------------------------------------------------|-----------------------------------------------------------------------|
+|      1 | [Python 快速入门](https://labex.io/zh/courses/quick-start-with-python)          | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-python)    |
+|      2 | [MySQL 快速入门](https://labex.io/zh/courses/quick-start-with-mysql)            | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-mysql)     | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-mysql)     |
+|      3 | [PostgreSQL 初学者教程](https://labex.io/zh/courses/postgresql-for-beginners)   | 初级   | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)   | [🚀 开始实验](https://labex.io/zh/courses/postgresql-for-beginners)   |
+|      4 | [NumPy 入门指南](https://labex.io/zh/courses/numpy-for-beginners)               | 初级   | [🔗 Repo](https://github.com/labex-labs/numpy-for-beginners)        | [🚀 开始实验](https://labex.io/zh/courses/numpy-for-beginners)        |
+|      5 | [Pandas 入门指南](https://labex.io/zh/courses/pandas-for-beginners)             | 初级   | [🔗 Repo](https://github.com/labex-labs/pandas-for-beginners)       | [🚀 开始实验](https://labex.io/zh/courses/pandas-for-beginners)       |
+|      6 | [Matplotlib 入门指南](https://labex.io/zh/courses/matplotlib-for-beginners)     | 初级   | [🔗 Repo](https://github.com/labex-labs/matplotlib-for-beginners)   | [🚀 开始实验](https://labex.io/zh/courses/matplotlib-for-beginners)   |
+|      7 | [Scikit-learn 入门指南](https://labex.io/zh/courses/scikit-learn-for-beginners) | 初级   | [🔗 Repo](https://github.com/labex-labs/scikit-learn-for-beginners) | [🚀 开始实验](https://labex.io/zh/courses/scikit-learn-for-beginners) |
 
 ## 更多
 
