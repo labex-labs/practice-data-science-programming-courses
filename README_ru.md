@@ -5,13 +5,13 @@
 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
+<img width="128px" src="https://file.labex.io/upload/u/1991/HOtoNfyDyuQ7.png">
 </div>
 
 Изучите Data Science с помощью этого всеобъемлющего учебного курса, разработанного для начинающих. Эти курсы по Data Science предоставляют структурированную дорожную карту для изучения анализа и интерпретации данных. Освойте основные концепции и инструменты с помощью практических уроков (без видео) и упражнений на интерактивной площадке, укрепляя навыки в статистическом анализе, машинном обучении и визуализации данных.
 
-|   Индекс | Название                                                                              | Сложность   | Repo                                                                | Практика                                                                        |
-|----------|---------------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|   Индекс | Название                                                                              | Сложность   | Repo                                                               | Практика                                                                       |
+|----------|---------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
 |        1 | [Быстрый старт с Python](https://labex.io/ru/courses/quick-start-with-python)         | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-python)    |
 |        2 | [MySQL для начинающих](https://labex.io/ru/courses/mysql-for-beginners)               | Начинающий  | [🔗 Repo](https://github.com/labex-labs/mysql-for-beginners)        | [🚀 Начать Лабораторию](https://labex.io/ru/courses/mysql-for-beginners)        |
 |        3 | [PostgreSQL для начинающих](https://labex.io/ru/courses/postgresql-for-beginners)     | Начинающий  | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)   | [🚀 Начать Лабораторию](https://labex.io/ru/courses/postgresql-for-beginners)   |
