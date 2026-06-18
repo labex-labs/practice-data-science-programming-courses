@@ -5,13 +5,13 @@
 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/Ctx67nWJaNg4.png">
+<img width="128px" src="https://file.labex.io/upload/u/1991/HOtoNfyDyuQ7.png">
 </div>
 
 Apprenez la science des données grâce à ce parcours d'apprentissage complet conçu pour les débutants. Ces cours de science des données offrent une feuille de route structurée pour explorer l'analyse et l'interprétation des données. Maîtrisez les concepts et outils essentiels grâce à des leçons pratiques (non vidéo) et des exercices concrets dans un environnement interactif, renforçant ainsi vos compétences en analyse statistique, en apprentissage automatique et en visualisation de données.
 
-|   Index | Nom                                                                                   | Difficulté   | Repo                                                                | Pratique                                                                      |
-|---------|---------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|   Index | Nom                                                                                   | Difficulté   | Repo                                                               | Pratique                                                                     |
+|---------|---------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------|------------------------------------------------------------------------------|
 |       1 | [Démarrage rapide avec Python](https://labex.io/fr/courses/quick-start-with-python)   | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)    | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-python)    |
 |       2 | [MySQL pour les Débutants](https://labex.io/fr/courses/mysql-for-beginners)           | Débutant     | [🔗 Repo](https://github.com/labex-labs/mysql-for-beginners)        | [🚀 Commencer le Lab](https://labex.io/fr/courses/mysql-for-beginners)        |
 |       3 | [PostgreSQL pour les débutants](https://labex.io/fr/courses/postgresql-for-beginners) | Débutant     | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)   | [🚀 Commencer le Lab](https://labex.io/fr/courses/postgresql-for-beginners)   |
