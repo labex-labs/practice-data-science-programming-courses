@@ -1,28 +1,41 @@
-# Practice Ciência de Dados Cursos de Programação
+# Ciência de Dados Practice Courses
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/HOtoNfyDyuQ7.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/pt/learn/data-science">
+    <img width="128" src="https://file.labex.io/upload/u/1991/HOtoNfyDyuQ7.png" alt="Ciência de Dados">
+  </a>
+</p>
 
 Aprenda Ciência de Dados com este caminho de aprendizagem abrangente, projetado para iniciantes. Estes Cursos de Ciência de Dados oferecem um roteiro estruturado para explorar a análise e interpretação de dados. Domine conceitos e ferramentas essenciais através de aulas práticas (não em vídeo) e exercícios práticos em um ambiente interativo, fortalecendo habilidades em análise estatística, aprendizado de máquina e visualização de dados.
 
-|   Índice | Nome                                                                                   | Dificuldade   | Repo                                                               | Prática                                                                 |
-|----------|----------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
-|        1 | [Início Rápido com Python](https://labex.io/pt/courses/quick-start-with-python)        | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-python)    |
-|        2 | [MySQL para Iniciantes](https://labex.io/pt/courses/mysql-for-beginners)               | Iniciante     | [🔗 Repo](https://github.com/labex-labs/mysql-for-beginners)        | [🚀 Iniciar Lab](https://labex.io/pt/courses/mysql-for-beginners)        |
-|        3 | [PostgreSQL para Iniciantes](https://labex.io/pt/courses/postgresql-for-beginners)     | Iniciante     | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)   | [🚀 Iniciar Lab](https://labex.io/pt/courses/postgresql-for-beginners)   |
-|        4 | [NumPy para Iniciantes](https://labex.io/pt/courses/numpy-for-beginners)               | Iniciante     | [🔗 Repo](https://github.com/labex-labs/numpy-for-beginners)        | [🚀 Iniciar Lab](https://labex.io/pt/courses/numpy-for-beginners)        |
-|        5 | [Pandas para Iniciantes](https://labex.io/pt/courses/pandas-for-beginners)             | Iniciante     | [🔗 Repo](https://github.com/labex-labs/pandas-for-beginners)       | [🚀 Iniciar Lab](https://labex.io/pt/courses/pandas-for-beginners)       |
-|        6 | [Matplotlib para Iniciantes](https://labex.io/pt/courses/matplotlib-for-beginners)     | Iniciante     | [🔗 Repo](https://github.com/labex-labs/matplotlib-for-beginners)   | [🚀 Iniciar Lab](https://labex.io/pt/courses/matplotlib-for-beginners)   |
-|        7 | [Scikit-learn para Iniciantes](https://labex.io/pt/courses/scikit-learn-for-beginners) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/scikit-learn-for-beginners) | [🚀 Iniciar Lab](https://labex.io/pt/courses/scikit-learn-for-beginners) |
+[Explorar cursos no LabEx](https://labex.io/pt/learn/data-science)
 
-## Mais
+|   Índice | Curso                                                                                                             | Dificuldade   | Repositório                                                              | Prática                                                                       |
+|----------|-------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|       01 | [100 Exercícios de Pandas](https://labex.io/pt/courses/100-pandas-exercises)                                      | Iniciante     | [Repo](https://github.com/labex-labs/100-pandas-exercises)               | [Iniciar Lab](https://labex.io/pt/courses/100-pandas-exercises)               |
+|       02 | [Pandas para Iniciantes](https://labex.io/pt/courses/pandas-for-beginners)                                        | Iniciante     | [Repo](https://github.com/labex-labs/pandas-for-beginners)               | [Iniciar Lab](https://labex.io/pt/courses/pandas-for-beginners)               |
+|       03 | [Aprendizado Supervisionado: Regressão](https://labex.io/pt/courses/supervised-learning-regression)               | Iniciante     | [Repo](https://github.com/labex-labs/supervised-learning-regression)     | [Iniciar Lab](https://labex.io/pt/courses/supervised-learning-regression)     |
+|       04 | [NumPy para Iniciantes](https://labex.io/pt/courses/numpy-for-beginners)                                          | Iniciante     | [Repo](https://github.com/labex-labs/numpy-for-beginners)                | [Iniciar Lab](https://labex.io/pt/courses/numpy-for-beginners)                |
+|       05 | [100 Exercícios de NumPy](https://labex.io/pt/courses/100-numpy-exercises)                                        | Iniciante     | [Repo](https://github.com/labex-labs/100-numpy-exercises)                | [Iniciar Lab](https://labex.io/pt/courses/100-numpy-exercises)                |
+|       06 | [Scikit-learn para Iniciantes](https://labex.io/pt/courses/scikit-learn-for-beginners)                            | Iniciante     | [Repo](https://github.com/labex-labs/scikit-learn-for-beginners)         | [Iniciar Lab](https://labex.io/pt/courses/scikit-learn-for-beginners)         |
+|       07 | [Matplotlib para Iniciantes](https://labex.io/pt/courses/matplotlib-for-beginners)                                | Iniciante     | [Repo](https://github.com/labex-labs/matplotlib-for-beginners)           | [Iniciar Lab](https://labex.io/pt/courses/matplotlib-for-beginners)           |
+|       08 | [Desafios Práticos de Pandas](https://labex.io/pt/courses/pandas-practice-challenges)                             | Iniciante     | [Repo](https://github.com/labex-labs/pandas-practice-challenges)         | [Iniciar Lab](https://labex.io/pt/courses/pandas-practice-challenges)         |
+|       09 | [Desafios Práticos de NumPy](https://labex.io/pt/courses/numpy-practice-challenges)                               | Iniciante     | [Repo](https://github.com/labex-labs/numpy-practice-challenges)          | [Iniciar Lab](https://labex.io/pt/courses/numpy-practice-challenges)          |
+|       10 | [Início Rápido com TensorFlow](https://labex.io/pt/courses/quick-start-with-tensorflow)                           | Iniciante     | [Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [Iniciar Lab](https://labex.io/pt/courses/quick-start-with-tensorflow)        |
+|       11 | [Aprendizado Supervisionado: Classificação](https://labex.io/pt/courses/supervised-learning-classification)       | Iniciante     | [Repo](https://github.com/labex-labs/supervised-learning-classification) | [Iniciar Lab](https://labex.io/pt/courses/supervised-learning-classification) |
+|       12 | [Fundamentos de Deep Learning](https://labex.io/pt/courses/foundations-of-deep-learning)                          | Iniciante     | [Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [Iniciar Lab](https://labex.io/pt/courses/foundations-of-deep-learning)       |
+|       13 | [Aprendizagem Não Supervisionada: Clustering](https://labex.io/pt/courses/unsupervised-learning-clustering)       | Iniciante     | [Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [Iniciar Lab](https://labex.io/pt/courses/unsupervised-learning-clustering)   |
+|       14 | [Início Rápido com Hadoop](https://labex.io/pt/courses/quick-start-with-hadoop)                                   | Iniciante     | [Repo](https://github.com/labex-labs/quick-start-with-hadoop)            | [Iniciar Lab](https://labex.io/pt/courses/quick-start-with-hadoop)            |
+|       15 | [Fundamentos de Visualização de Dados com Seaborn](https://labex.io/pt/courses/seaborn-data-visualization-basics) | Iniciante     | [Repo](https://github.com/labex-labs/seaborn-data-visualization-basics)  | [Iniciar Lab](https://labex.io/pt/courses/seaborn-data-visualization-basics)  |
+|       16 | [Desafios Práticos de Sklearn](https://labex.io/pt/courses/sklearn-practice-challenges)                           | Iniciante     | [Repo](https://github.com/labex-labs/sklearn-practice-challenges)        | [Iniciar Lab](https://labex.io/pt/courses/sklearn-practice-challenges)        |
+|       17 | [Laboratórios Práticos de Hadoop](https://labex.io/pt/courses/hadoop-practice-labs)                               | Iniciante     | [Repo](https://github.com/labex-labs/hadoop-practice-labs)               | [Iniciar Lab](https://labex.io/pt/courses/hadoop-practice-labs)               |
+|       18 | [Desafios Práticos de Hadoop](https://labex.io/pt/courses/hadoop-practice-challenges)                             | Iniciante     | [Repo](https://github.com/labex-labs/hadoop-practice-challenges)         | [Iniciar Lab](https://labex.io/pt/courses/hadoop-practice-challenges)         |
 
-- 🔗 [Ciência de Dados Tutoriais Gratuitos](https://github.com/labex-labs/data-science-free-tutorials)
-- 🔗 [Projetos de Programação Incríveis](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cursos de Programação Incríveis](https://github.com/labex-labs/awesome-programming-courses)
+[Ver mais no LabEx](https://labex.io/pt/learn/data-science)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 

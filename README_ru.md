@@ -1,28 +1,41 @@
-# Practice Наука о данных Курсы программирования
+# Data Science Practice Courses
 
-## Языки
+**Языки:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/HOtoNfyDyuQ7.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/ru/learn/data-science">
+    <img width="128" src="https://file.labex.io/upload/u/1991/HOtoNfyDyuQ7.png" alt="Data Science">
+  </a>
+</p>
 
 Изучите Data Science с помощью этого всеобъемлющего учебного курса, разработанного для начинающих. Эти курсы по Data Science предоставляют структурированную дорожную карту для изучения анализа и интерпретации данных. Освойте основные концепции и инструменты с помощью практических уроков (без видео) и упражнений на интерактивной площадке, укрепляя навыки в статистическом анализе, машинном обучении и визуализации данных.
 
-|   Индекс | Название                                                                              | Сложность   | Repo                                                               | Практика                                                                       |
-|----------|---------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|        1 | [Быстрый старт с Python](https://labex.io/ru/courses/quick-start-with-python)         | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-python)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-python)    |
-|        2 | [MySQL для начинающих](https://labex.io/ru/courses/mysql-for-beginners)               | Начинающий  | [🔗 Repo](https://github.com/labex-labs/mysql-for-beginners)        | [🚀 Начать Лабораторию](https://labex.io/ru/courses/mysql-for-beginners)        |
-|        3 | [PostgreSQL для начинающих](https://labex.io/ru/courses/postgresql-for-beginners)     | Начинающий  | [🔗 Repo](https://github.com/labex-labs/postgresql-for-beginners)   | [🚀 Начать Лабораторию](https://labex.io/ru/courses/postgresql-for-beginners)   |
-|        4 | [NumPy для начинающих](https://labex.io/ru/courses/numpy-for-beginners)               | Начинающий  | [🔗 Repo](https://github.com/labex-labs/numpy-for-beginners)        | [🚀 Начать Лабораторию](https://labex.io/ru/courses/numpy-for-beginners)        |
-|        5 | [Pandas для начинающих](https://labex.io/ru/courses/pandas-for-beginners)             | Начинающий  | [🔗 Repo](https://github.com/labex-labs/pandas-for-beginners)       | [🚀 Начать Лабораторию](https://labex.io/ru/courses/pandas-for-beginners)       |
-|        6 | [Matplotlib для начинающих](https://labex.io/ru/courses/matplotlib-for-beginners)     | Начинающий  | [🔗 Repo](https://github.com/labex-labs/matplotlib-for-beginners)   | [🚀 Начать Лабораторию](https://labex.io/ru/courses/matplotlib-for-beginners)   |
-|        7 | [Scikit-learn для начинающих](https://labex.io/ru/courses/scikit-learn-for-beginners) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/scikit-learn-for-beginners) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/scikit-learn-for-beginners) |
+[Посмотреть курсы на LabEx](https://labex.io/ru/learn/data-science)
 
-## Больше
+|   Индекс | Курс                                                                                                                 | Сложность   | Репозиторий                                                              | Практика                                                                             |
+|----------|----------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|       01 | [100 упражнений по Pandas](https://labex.io/ru/courses/100-pandas-exercises)                                         | Начинающий  | [Repo](https://github.com/labex-labs/100-pandas-exercises)               | [Начать лабораторию](https://labex.io/ru/courses/100-pandas-exercises)               |
+|       02 | [Pandas для начинающих](https://labex.io/ru/courses/pandas-for-beginners)                                            | Начинающий  | [Repo](https://github.com/labex-labs/pandas-for-beginners)               | [Начать лабораторию](https://labex.io/ru/courses/pandas-for-beginners)               |
+|       03 | [Обучение с учителем: Регрессия](https://labex.io/ru/courses/supervised-learning-regression)                         | Начинающий  | [Repo](https://github.com/labex-labs/supervised-learning-regression)     | [Начать лабораторию](https://labex.io/ru/courses/supervised-learning-regression)     |
+|       04 | [NumPy для начинающих](https://labex.io/ru/courses/numpy-for-beginners)                                              | Начинающий  | [Repo](https://github.com/labex-labs/numpy-for-beginners)                | [Начать лабораторию](https://labex.io/ru/courses/numpy-for-beginners)                |
+|       05 | [100 упражнений по NumPy](https://labex.io/ru/courses/100-numpy-exercises)                                           | Начинающий  | [Repo](https://github.com/labex-labs/100-numpy-exercises)                | [Начать лабораторию](https://labex.io/ru/courses/100-numpy-exercises)                |
+|       06 | [Scikit-learn для начинающих](https://labex.io/ru/courses/scikit-learn-for-beginners)                                | Начинающий  | [Repo](https://github.com/labex-labs/scikit-learn-for-beginners)         | [Начать лабораторию](https://labex.io/ru/courses/scikit-learn-for-beginners)         |
+|       07 | [Matplotlib для начинающих](https://labex.io/ru/courses/matplotlib-for-beginners)                                    | Начинающий  | [Repo](https://github.com/labex-labs/matplotlib-for-beginners)           | [Начать лабораторию](https://labex.io/ru/courses/matplotlib-for-beginners)           |
+|       08 | [Практические задачи по Pandas](https://labex.io/ru/courses/pandas-practice-challenges)                              | Начинающий  | [Repo](https://github.com/labex-labs/pandas-practice-challenges)         | [Начать лабораторию](https://labex.io/ru/courses/pandas-practice-challenges)         |
+|       09 | [Задачи для практики с NumPy](https://labex.io/ru/courses/numpy-practice-challenges)                                 | Начинающий  | [Repo](https://github.com/labex-labs/numpy-practice-challenges)          | [Начать лабораторию](https://labex.io/ru/courses/numpy-practice-challenges)          |
+|       10 | [Быстрый старт с TensorFlow](https://labex.io/ru/courses/quick-start-with-tensorflow)                                | Начинающий  | [Repo](https://github.com/labex-labs/quick-start-with-tensorflow)        | [Начать лабораторию](https://labex.io/ru/courses/quick-start-with-tensorflow)        |
+|       11 | [Обучение с учителем: Классификация](https://labex.io/ru/courses/supervised-learning-classification)                 | Начинающий  | [Repo](https://github.com/labex-labs/supervised-learning-classification) | [Начать лабораторию](https://labex.io/ru/courses/supervised-learning-classification) |
+|       12 | [Основы глубокого обучения](https://labex.io/ru/courses/foundations-of-deep-learning)                                | Начинающий  | [Repo](https://github.com/labex-labs/foundations-of-deep-learning)       | [Начать лабораторию](https://labex.io/ru/courses/foundations-of-deep-learning)       |
+|       13 | [Ненадзорное обучение: Кластеризация](https://labex.io/ru/courses/unsupervised-learning-clustering)                  | Начинающий  | [Repo](https://github.com/labex-labs/unsupervised-learning-clustering)   | [Начать лабораторию](https://labex.io/ru/courses/unsupervised-learning-clustering)   |
+|       14 | [Быстрый старт с Hadoop](https://labex.io/ru/courses/quick-start-with-hadoop)                                        | Начинающий  | [Repo](https://github.com/labex-labs/quick-start-with-hadoop)            | [Начать лабораторию](https://labex.io/ru/courses/quick-start-with-hadoop)            |
+|       15 | [Основы визуализации данных с использованием Seaborn](https://labex.io/ru/courses/seaborn-data-visualization-basics) | Начинающий  | [Repo](https://github.com/labex-labs/seaborn-data-visualization-basics)  | [Начать лабораторию](https://labex.io/ru/courses/seaborn-data-visualization-basics)  |
+|       16 | [Практические задачи по Sklearn](https://labex.io/ru/courses/sklearn-practice-challenges)                            | Начинающий  | [Repo](https://github.com/labex-labs/sklearn-practice-challenges)        | [Начать лабораторию](https://labex.io/ru/courses/sklearn-practice-challenges)        |
+|       17 | [Практические лабораторные работы по Hadoop](https://labex.io/ru/courses/hadoop-practice-labs)                       | Начинающий  | [Repo](https://github.com/labex-labs/hadoop-practice-labs)               | [Начать лабораторию](https://labex.io/ru/courses/hadoop-practice-labs)               |
+|       18 | [Задачи по практике работы с Hadoop](https://labex.io/ru/courses/hadoop-practice-challenges)                         | Начинающий  | [Repo](https://github.com/labex-labs/hadoop-practice-challenges)         | [Начать лабораторию](https://labex.io/ru/courses/hadoop-practice-challenges)         |
 
-- 🔗 [Наука о данных Бесплатные туториалы](https://github.com/labex-labs/data-science-free-tutorials)
-- 🔗 [Потрясающие Проекты Программирования](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Потрясающие Курсы Программирования](https://github.com/labex-labs/awesome-programming-courses)
+[Посмотреть больше на LabEx](https://labex.io/ru/learn/data-science)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
